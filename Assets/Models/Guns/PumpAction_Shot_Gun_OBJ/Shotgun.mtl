@@ -1,0 +1,105 @@
+newmtl Bottom_Barrel_Outer_Tip
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Sight
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Shot_Gun
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Pump01
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Top_Barrel
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Pump_Groove
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Shot_Gun01
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Barrel_Link
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Trigger01
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Chamber
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Pump
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Bottom_Barrel_Inner_Tip
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Trigger02
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Gun_Butt
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
+newmtl Bottom_Barrel_Cover
+Ns 6
+d 1
+illum 2
+Kd 0.772549 0.784314 0.796078
+Ks 0.2 0.2 0.2
+
